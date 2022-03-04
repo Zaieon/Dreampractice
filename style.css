@@ -1,11 +1,30 @@
 body {
     color: black;
     
-    background-color: rgb(102, 81, 49);
+    background-color:rgb(255, 255, 255);
     
 }
 
-#theForm {
+#text1 {
+    background-color: lightgray;
+    width: 800px;
+    height: 300px;
+    box-shadow: inset 0 0 20px black;
+
+/* #text2 {
+    text-align: center;
+    font: bold 60px Helvetica;
+} */
+
+/* #box1 {
+    width: 800px;
+    height: 300px;
+    float: left;
+    background-color: blue;
+    background: linear-gradient(30deg, red 1%, black 40%, white 60%);
+} */
+
+/* #theForm {
     color: white;
     display: table;
     padding: 15px;
@@ -38,7 +57,7 @@ p::first-line {
 p::first-letter {
     font-weight: bold;
     font-size: 25px;
-}
+} */
 
 /* ul {
     list-style: none;
