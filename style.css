@@ -1,0 +1,163 @@
+body {
+    color: black;
+    
+    background-color: rgb(102, 81, 49);
+    
+}
+
+#theForm {
+    color: white;
+    display: table;
+    padding: 15px;
+    background-color: #2c8f77;
+    border: black 2px solid;
+}
+.row {
+    margin: 15px;
+    display: table-row;
+}
+
+label {
+    display: table-cell;
+    margin: 10px 15px;
+    text-align: right;
+}
+input {
+    display: table-cell;
+    margin: 10px 25px;
+}
+
+.task {
+    border: green 2px solid;
+    padding: 15px;
+    float: left;
+}
+p::first-line {
+    color: burlywood;
+}
+p::first-letter {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+/* ul {
+    list-style: none;
+    padding: 0;
+
+}
+li {
+    display: inline;
+}
+a {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0px 20px;
+    border: 1px solid;
+    border-radius: 3px;
+    font: 700 13px;
+    height: 30px;
+    line-height: 28px;
+    text-align: center;
+    margin-right: 10px;
+    background-color: #e7e7e7;
+    text-decoration: none;
+    color: black;
+    float: left;
+
+}
+a:hover {
+    background-color: aqua;
+    color: beige;
+    font-size: larger;
+    font-family: sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+
+
+/* a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: #fffa32;
+}
+a:hover {
+    color: palevioletred;
+    text-decoration: underline;
+} */
+/* ul {
+    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+   
+}
+li {
+    margin: 0px 10px;
+}
+
+ul li a {
+    background-color: #fffa32;
+    display: block; 
+    padding: 10px;
+    margin: 5px;
+    width: 100px;
+    text-align: center;
+    height: 40px;
+    border: black 2px ridge;
+    border-radius: 5px;
+    line-height: 40px;
+}
+a#tr {
+    background-color: whitesmoke;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 7px;
+    border-radius: 5px;
+}
+a#tr:hover {
+    background-color: black;
+    color: azure;
+}
+h1, h2 {
+    text-decoration: overline underline;
+    text-align: center;
+    
+} */
+/* #main {
+    width: 100%;
+    
+}
+img {
+    float: left;
+    margin: 50px;
+} */
+/* .tan {
+    background-color: rgb(255, 157, 10);
+    margin: 1rem;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.tin {
+    background-color: blueviolet;
+    border: green 2px solid;
+
+    
+} */
+/* p.param {
+    background-color: #fffa32;
+    padding: 20px;
+    border: solid 2px black;
+    border-radius: 5px;
+    margin-left: 400px;
+
+} */
+/* centers the img */
+/* img, span {
+   
+    padding: 1rem;
+    border: black 2px solid;
+    margin: 25px;
+} */
